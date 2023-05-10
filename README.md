@@ -1,6 +1,8 @@
 # Практика по созданию баг-репортов
 Составление баг-репортов в Jira и Google docs на раздел "Вкусное меню на сегодня" 
 
+- Ссылка на чек-листы по разделу "Вкусное меню на сегодня" - https://github.com/KochkarevMV/CheckLists_FoodBuzz/blob/master/Test_info.md
+
 - Ссылка на тестируемый ресурс - https://test-stand.gb.ru/seminar_stands/foodbuzz/index.html?_ga=2.10137661.901338921.1681388441-564606220.1661775989
 
 - Ссылка на документацию тестируемого ресурса - https://docs.google.com/document/d/1MwJzjEQhCn5bOh9_aqN7dPjcEEao5SHAS14gNcjYvVo/edit
